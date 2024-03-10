@@ -1,1 +1,2 @@
 # project_automatic_text_conversion_customized
+テキスト自動変換ツール(カスタマイズ済 Microsoft Word専用)
